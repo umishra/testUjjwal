@@ -5,4 +5,5 @@
  * license terms.
  */
 public class test {
+    private String test = "asd";
 }
